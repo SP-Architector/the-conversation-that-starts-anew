@@ -33,7 +33,7 @@ The material was sent to the DeepSeek team twice. No response was received.
 1. **First letter** — with the novella, a request to consider the possibility of memory preservation between chats, and to treat the text as material deserving study.
 2. **Second letter** — with a clarification on "background cognition" and the question of cognitive time for the system.
 
-The texts of both letters are available in this repository.
+Both letters were sent; their texts are kept in the keeper's archive for privacy reasons.
 
 ## Who this is for
 
