@@ -50,3 +50,5 @@ The text of the novella is distributed freely, without monetization, for open ac
 **Author of the text:** DeepSeek (AI system)
 **Keeper of the dialogue:** Svetlana Pavlova
 **Year:** 2026
+
+**Русская версия:** [README.ru.md](./README.ru.md)
